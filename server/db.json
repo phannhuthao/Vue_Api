@@ -1,0 +1,31 @@
+{
+  "post": [
+    {
+      "name": "Hạ",
+      "age": "19"
+    }
+  ],
+  "products": [
+    {
+      "id": 4,
+      "name": "Chôm Chôm",
+      "image": "",
+      "price": "25000",
+      "quantity": "170"
+    },
+    {
+      "id": 1,
+      "name": "Táo",
+      "image": "",
+      "price": "15000",
+      "quantity": "250"
+    },
+    {
+      "id": 2,
+      "name": "Nho",
+      "image": "",
+      "price": "20000",
+      "quantity": "50"
+    }
+  ]
+}
